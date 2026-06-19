@@ -1,0 +1,13 @@
+{
+  "name": "sparda",
+  "version": "1.0.0",
+  "description": "Build and interact with secure local MCP servers from Express and FastAPI backends.",
+  "author": {
+    "name": "Zakaria Gharzouli"
+  },
+  "components": {
+    "skills": [
+      "skills/"
+    ]
+  }
+}

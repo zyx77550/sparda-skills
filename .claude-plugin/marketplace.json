@@ -1,0 +1,13 @@
+{
+  "name": "residual-labs",
+  "owner": {
+    "name": "Zakaria Gharzouli"
+  },
+  "plugins": [
+    {
+      "name": "sparda",
+      "source": "./",
+      "description": "Build and interact with secure local MCP servers from Express and FastAPI backends."
+    }
+  ]
+}
