@@ -1,5 +1,5 @@
 ---
-name: sparda-mcp
+name: sparda
 description: >-
   Drive a SPARDA-generated MCP server to its full potential. Use this whenever
   you are connected to an MCP server built by SPARDA (sparda-mcp) — recognizable

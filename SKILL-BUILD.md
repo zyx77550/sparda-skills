@@ -1,5 +1,5 @@
 ---
-name: build-mcp-server
+name: sparda-build
 description: >-
   Build, generate, or expose MCP (Model Context Protocol) servers from existing
   Express (Node.js) or FastAPI (Python) backend APIs. Use this to convert host
